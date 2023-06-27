@@ -1,0 +1,11 @@
+* C:\Users\facud\OneDrive\Escritorio\ITBA\Primer Cuatri 2023\Física Electrónica\TP-Final-Fisica-Electronica\Spice\Circuito_MOSFET_Enrich\Circuito_MOSFET_Enrich_PuntoQ.asc
+M1 Vds Vgs 0 0 2N7000
+V1 Vgs 0 1.6730762923
+V2 N001 0 10
+R1 N001 Vds 5k
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\facud\AppData\Local\LTspice\lib\cmp\standard.mos
+.op
+.backanno
+.end
