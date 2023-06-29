@@ -1,11 +1,11 @@
        --- Operating Point ---
 
-V(n002):	 1.10347	 voltage
-V(n003):	 -0.3	 voltage
+V(vout):	 7.32226	 voltage
+V(vin):	 -0.3	 voltage
 V(n001):	 10	 voltage
-Id(M1):	 0.00104665	 device_current
-Ig(M1):	 -3.97627e-12	 device_current
-Is(M1):	 -0.00104665	 device_current
-I(R1):	 0.00104665	 device_current
-I(V1):	 -0.00104665	 device_current
+Id(M1):	 0.00148763	 device_current
+Ig(M1):	 -3.33831e-12	 device_current
+Is(M1):	 -0.00148763	 device_current
+I(R1):	 0.00148763	 device_current
+I(V1):	 -0.00148763	 device_current
 I(V2):	 0	 device_current
